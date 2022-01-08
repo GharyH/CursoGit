@@ -27,7 +27,11 @@ ________consola amen - cambiar descripciones
 git commit --amend
 Sirve para corregir descripciones
 
-
+_____
+para subir a git hub
+git remote add origin https://github.com/GharyH/CursoGit.git
+git push origin master
+  
 
 
 
