@@ -23,7 +23,8 @@ Devuelve listado de todas las copias guardadas
 
 git reset --hard codigo de instancia
 
-
+________consola amen - cambiar descripciones
+git commit --amend
 
 
 
