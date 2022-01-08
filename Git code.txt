@@ -8,7 +8,7 @@ git commit -m "descripcion"
 agregar respaldo, es necesario agregar un add antes
 - si es la primera vez pide username y email, deben ir entre comillas
 
-git commit -a -m "descripcion"
+git commit -am "descripcion"
 agregar respaldo
 - si es la primera vez pide username y email, deben ir entre comillas
 
