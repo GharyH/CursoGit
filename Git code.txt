@@ -25,7 +25,7 @@ git reset --hard codigo de instancia
 
 ________consola amen - cambiar descripciones
 git commit --amend
-
+Sirve para corregir descripciones
 
 
 
