@@ -27,7 +27,9 @@ ________consola amen - cambiar descripciones
 git commit --amend
 Sirve para corregir descripciones
 
-_____
+------
+GIT HUB
+------
 para subir a git hub
 git remote add origin https://github.com/GharyH/CursoGit.git
 git push origin master
@@ -36,13 +38,32 @@ git pull
 para traer informacion de la nube
 
 git tag 08-01-22v1 -m "version 1 del proyecto"
-crear tag 
+crear tag, permite descargar el proyecto
 
 git push --tags
 subir tags
 
 git clone url
 sirve para clonar proyectos de github
+
+------
+ramas
+------
+git branch nombre
+crear nueva rama
+
+git branch
+muestra todas las ramas y en cual se trabaja
+
+git checkout nombre (master para principal)
+sirve para moverse de rama
+
+git merge nombre
+debe ejecutarse desde la rama principal
+el nombre debe ser el de la rama que queremo fusionar
+
+
+
 
 
 
