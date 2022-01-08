@@ -1,13 +1,23 @@
 git init
 inicializar
 
-git add
+git add archivo.txt
 Agregar un archivo para realizar seguimiento
+se debe poner add antes de hacer un commit - segun tutorial
 
-git commit
+git commit -m "descripcion"
 agregar respaldo
+- si es la primera vez pide username y email, deben ir entre comillas
 
+git status -s
+revisar todos los archivos en git
+?? = no agregado
+A = agregado
 
+git log --oneline
+Devuelve listado de todas las copias guardadas
+
+git reset --hard codigo de instancia
 
 
 
