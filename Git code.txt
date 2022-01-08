@@ -1,0 +1,27 @@
+git init
+inicializar
+
+git add
+Agregar un archivo para realizar seguimiento
+
+git commit
+agregar respaldo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
