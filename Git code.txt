@@ -32,8 +32,17 @@ para subir a git hub
 git remote add origin https://github.com/GharyH/CursoGit.git
 git push origin master
   
+git pull
+para traer informacion de la nube
 
+git tag 08-01-22v1 -m "version 1 del proyecto"
+crear tag 
 
+git push --tags
+subir tags
+
+git clone url
+sirve para clonar proyectos de github
 
 
 
