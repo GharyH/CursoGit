@@ -3,11 +3,15 @@ inicializar
 
 git add archivo.txt
 Agregar un archivo para realizar seguimiento
-se debe poner add antes de hacer un commit - segun tutorial
 
 git commit -m "descripcion"
+agregar respaldo, es necesario agregar un add antes
+- si es la primera vez pide username y email, deben ir entre comillas
+
+git commit -a -m "descripcion"
 agregar respaldo
 - si es la primera vez pide username y email, deben ir entre comillas
+
 
 git status -s
 revisar todos los archivos en git
