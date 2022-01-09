@@ -52,6 +52,9 @@ ramas
 git branch nombre
 crear nueva rama
 
+git branch -d nombre
+sirve para eliminar rama
+
 git branch
 muestra todas las ramas y en cual se trabaja
 
@@ -62,7 +65,6 @@ git merge nombre
 debe ejecutarse desde la rama principal
 el nombre debe ser el de la rama que queremo fusionar
 
-Esto deberia ser eliminadorder--1
 
 
 
