@@ -66,6 +66,23 @@ debe ejecutarse desde la rama principal
 el nombre debe ser el de la rama que queremo fusionar
 
 
+borrar credenciales
+configuracion
+cuenta
+buscar credenciales
+administrador de credenciales
+credenciales de windows 
+buscar las credenciales de github y borrar
+
+para configurar credenciales 
+git config --global user.name "minombre"
+git config --global user.email "minombre"
+
+git config --global -l
+muestra la configuracion
+
+git commit help
+ayuda
 
 
 
