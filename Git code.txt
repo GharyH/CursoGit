@@ -43,6 +43,11 @@ crear tag, permite descargar el proyecto
 git push --tags
 subir tags
 
+git tag -a v0.1.0 codigoCommit - m "mensaje"
+
+git tag -d codigo
+eliminar tag
+
 git clone url
 sirve para clonar proyectos de github
 
@@ -81,9 +86,15 @@ git config --global user.email "minombre"
 git config --global -l
 muestra la configuracion
 
-git commit help
+git commit --h
 ayuda
 
+git commit --amend -m "modificar descripcion de ultimo commit"
+
+git restore --staget .
+restaura al ultimo commit
+puede indicarse archivo especifico *.js
+para multiples archivos separa con espacio
 
 
 
