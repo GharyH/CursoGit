@@ -92,9 +92,12 @@ ayuda
 git commit --amend -m "modificar descripcion de ultimo commit"
 
 git restore --staget .
-restaura al ultimo commit
+restaura al ultimo commit, sin quitar los cambios actuales
 puede indicarse archivo especifico *.js
 para multiples archivos separa con espacio
+
+git restore .
+restaura al ultimo commit, elimina todos los cambios
 
 
 
